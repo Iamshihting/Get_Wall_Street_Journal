@@ -1,6 +1,6 @@
 # 《華爾街日報》爬取與存儲系統
 ### 📌 專案簡介
-本專案透過 Playwright、BeautifulSoup 及 MongoDB 自動化爬取 ProQuest 的華爾街日報 (Wall Street Journal) 存檔文章。專案包含 CAPTCHA 自動識別登入、文章爬取及資料存儲功能。
+本專案透過 Playwright、BeautifulSoup 及 MongoDB 自動化爬取 ProQuest 的華爾街日報 (Wall Street Journal) 的文章。專案包含 CAPTCHA 自動識別登入、文章爬取及資料存儲功能。
 ### 📌 功能特點
 1️⃣ 使用 ddddocr 自動識別 CAPTCHA 進行登入  
 
